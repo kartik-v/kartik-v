@@ -5,13 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik-v" alt="kartik-v" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://plugins.krajee.com](https://plugins.krajee.com)
+- 🔭 I’m currently working on [https://plugins.krajee.com](https://demos.krajee.com)
+
+- 👨‍💻 All of my projects are available at [https://krajee.com](https://krajee.com)
 
 - 📝 I regularly write articles on [https://kartik-v.krajee.com](https://kartik-v.krajee.com)
 
 - 💬 Ask me about **php, javascript, yii2, laravel, jquery,**
 
-- 📫 How to reach me **https://plugins.krajee.com**
+- 📫 How to reach me **https://krajee.com/contact**
+
+- 📄 Know about my experiences [https://kartik-v.krajee.com](https://kartik-v.krajee.com)
+
+- ⚡ Fun fact **I think**
 
 
 <h3 align="left">Languages and Tools:</h3>
