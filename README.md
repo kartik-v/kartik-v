@@ -4,7 +4,7 @@
 <p align="center">
  
   
-[![Profile](<img src="https://komarev.com/ghpvc/?username=kartik-v&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-v"/>)](https://github.com/kartik-v)
+[![Profile](https://komarev.com/ghpvc/?username=kartik-v&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kartik-v)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkartik-v&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=true)](https://github.com/kartik-v)
 
 </p>
