@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kartik Visweswaran</h1>
 <h3 align="center">A passionate open source contributor from India</h3>
 
-<p align="center">
-  
+<div align="center">
+
 [![Profile](https://komarev.com/ghpvc/?username=kartik-v&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kartik-v)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkartik-v&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=true)](https://github.com/kartik-v)
 
-</p>
+</div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik-v" alt="kartik-v" /></a> </p>
 
 
-<table class="table"><tr><td>
+<table align="center"><tr><td>
 
 - 🔭 I’m currently working on [Javascript Plugins](https://plugins.krajee.com) and [Yii2 Extensions](https://demos.krajee.com)
 
