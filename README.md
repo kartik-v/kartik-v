@@ -19,9 +19,9 @@
 
 - 📝 I regularly write articles on [https://kartik-v.krajee.com](https://kartik-v.krajee.com)
 
-- 💬 Ask me about **php, javascript, yii2, laravel, jquery,**
+- 💬 Ask me about **anything on app development**
 
-- 📫 How to reach me **https://krajee.com/contact**
+- 📫 How to reach me: **https://krajee.com/contact**
 
 </td><td>
 
